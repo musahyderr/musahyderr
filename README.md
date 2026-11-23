@@ -1,4 +1,4 @@
-<a href="https://iamsyed.vercel.app"><img src="banner.jpg" alt="Syed Musa Hyder" width="100%" /></a>
+<a href="https://iamsyed.vercel.app"><img src="banner-short.jpg" alt="Syed Musa Hyder" width="100%" /></a>
 
 ### Syed Musa Hyder (syed · 赛义德)
 

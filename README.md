@@ -25,8 +25,8 @@
 ---
 
 <p>
-  <a href="https://github.com/musahyderr/mainseat/actions/workflows/ci.yml"><img alt="mainseat CI" src="https://github.com/musahyderr/mainseat/actions/workflows/ci.yml/badge.svg" /></a>
-  <a href="https://github.com/musahyderr/netdoctor/actions/workflows/ci.yml"><img alt="netdoctor CI" src="https://github.com/musahyderr/netdoctor/actions/workflows/ci.yml/badge.svg" /></a>
+  <a href="https://github.com/musahyderr/mainseat/actions/workflows/ci.yml"><img alt="mainseat CI" src="https://img.shields.io/github/actions/workflow/status/musahyderr/mainseat/ci.yml?branch=main&label=mainseat%20CI&logo=githubactions&logoColor=white&style=flat-square&labelColor=000000" /></a>
+  <a href="https://github.com/musahyderr/netdoctor/actions/workflows/ci.yml"><img alt="netdoctor CI" src="https://img.shields.io/github/actions/workflow/status/musahyderr/netdoctor/ci.yml?branch=main&label=netdoctor%20CI&logo=githubactions&logoColor=white&style=flat-square&labelColor=000000" /></a>
 </p>
 <p>
   <a href="https://iamsyed.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-visit-000000?style=flat-square&labelColor=000000&color=e5484d" /></a>

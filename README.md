@@ -8,8 +8,34 @@
 
 #### Projects
 
-- **[mainseat](https://github.com/musahyderr/mainseat)**: a Claude Code plugin that puts Sonnet in the main seat: Haiku takes searches and noisy commands, Opus only plans. **Same pass rate as plain Opus at 56–57% lower cost.**
-- **[netdoctor](https://github.com/musahyderr/netdoctor)**: a **read-only, local MCP server** that lets Claude diagnose slow or broken internet: ping, DNS lookup, traceroute and a single-port check. **Tested on Windows, macOS and Linux.**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [mainseat](https://github.com/musahyderr/mainseat)
+
+<sub>Solo · open source (MIT) · v1.7.1</sub><br>
+A Claude Code plugin that puts Sonnet in the main seat: Haiku takes searches and noisy commands, Opus is called only to plan. **Same pass rate as plain Opus (10/10 on hidden graders) at 56% lower cost**, with 200+ least-privilege agents and CI on every change.
+
+[Code](https://github.com/musahyderr/mainseat) · [Releases](https://github.com/musahyderr/mainseat/releases) · [Portfolio](https://iamsyed.vercel.app/#projects)
+
+<sub>Python · Claude Code · GitHub Actions</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### [netdoctor](https://github.com/musahyderr/netdoctor)
+
+<sub>Solo · open source (MIT) · v0.1.0</sub><br>
+A read-only, local MCP server that lets Claude diagnose slow or broken internet with four checks: ping, DNS lookup, traceroute and a single-port test. **No telemetry, no admin rights, rate-limited, and a port check that refuses to scan.** Tested in CI on Windows, macOS and Linux.
+
+[Code](https://github.com/musahyderr/netdoctor) · [Releases](https://github.com/musahyderr/netdoctor/releases) · [Portfolio](https://iamsyed.vercel.app/#projects)
+
+<sub>Python · MCP · GitHub Actions</sub>
+
+</td>
+</tr>
+</table>
 
 #### Certifications
 

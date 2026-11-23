@@ -6,6 +6,26 @@
 
 **Interested in:** `AI & machine learning` · `data` · `networking` · `civil engineering`
 
+<details open>
+<summary><b>// origin.log</b></summary>
+
+```text
+[00:00:00]  every invention starts as a question nobody answered well enough.
+[00:00:07]  the internet slows down. the tools to find out why already exist.
+            reading what they say does not.
+[00:00:13]  so: netdoctor. claude runs the checks and names the fault:
+            the wi-fi, the router, the provider, dns, or the site itself.
+[00:01:42]  the models arrive. the one in the main seat sets the price of every turn.
+[00:01:58]  so: mainseat. the cheap model reads, the expensive one only plans.
+            same answers. 56% less spent.
+[00:02:30]  the pattern: find where the signal gets lost.
+            build something small that carries it through.
+[??:??:??]  the possible was always there. it was buried in the static.
+            可能性一直都在。  ·  das Mögliche war immer schon da.
+```
+
+</details>
+
 <p>
   <a href="https://iamsyed.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/portfolio-visit-000000?style=flat-square&labelColor=000000&color=e5484d" /></a>
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />

@@ -13,8 +13,8 @@
 
 #### Certifications
 
-- **[AI Fluency: AI Capabilities & Limitations](https://verify.skilljar.com/c/gp2gjgny5jk4)** · Anthropic
-- **[Claude Code in Action](https://verify.skilljar.com/c/ddh3samm536k)** · Anthropic
+- **[AI Fluency: AI Capabilities & Limitations](https://verify.skilljar.com/c/gp2gjgny5jk4)** · Anthropic &nbsp;<a href="https://verify.skilljar.com/c/gp2gjgny5jk4"><img alt="Anthropic verified" src="https://img.shields.io/badge/Anthropic-verified-000000?style=flat-square&logo=claude&logoColor=white&labelColor=000000&color=2ea44f" align="absmiddle" /></a>
+- **[Claude Code in Action](https://verify.skilljar.com/c/ddh3samm536k)** · Anthropic &nbsp;<a href="https://verify.skilljar.com/c/ddh3samm536k"><img alt="Anthropic verified" src="https://img.shields.io/badge/Anthropic-verified-000000?style=flat-square&logo=claude&logoColor=white&labelColor=000000&color=2ea44f" align="absmiddle" /></a>
 
 #### Writing
 

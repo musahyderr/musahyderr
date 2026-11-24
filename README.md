@@ -36,7 +36,7 @@ A read-only, local MCP server that lets Claude diagnose slow or broken internet 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### [design-inside](https://github.com/musahyderr/design-inside)
 
@@ -46,16 +46,6 @@ A visual editor for sites on your own localhost. Click any element to change its
 [Code](https://github.com/musahyderr/design-inside) · [Releases](https://github.com/musahyderr/design-inside/releases) · [Portfolio](https://iamsyed.vercel.app/#projects)
 
 <sub>JavaScript · Node.js · Claude Code · Tailwind CSS</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### Next up
-
-<sub>Planned</sub><br>
-**Home network health monitor**: continuous latency and packet-loss measurement from local devices to public endpoints, so an outage can be pinned on the Wi-Fi, the router or the provider.
-
-<sub>Python · FastAPI · React</sub>
 
 </td>
 </tr>

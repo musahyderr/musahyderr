@@ -35,6 +35,30 @@ A read-only, local MCP server that lets Claude diagnose slow or broken internet 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [design-inside](https://github.com/musahyderr/design-inside)
+
+<sub>Solo · open source (MIT) · v0.1.0</sub><br>
+A visual editor for sites on your own localhost. Click any element to change its text, fonts, colours or spacing, and **the edit is written to your real source files as an undoable git commit**. Works with any AI coding agent, or none, and installs as a Claude Code plugin.
+
+[Code](https://github.com/musahyderr/design-inside) · [Releases](https://github.com/musahyderr/design-inside/releases) · [Portfolio](https://iamsyed.vercel.app/#projects)
+
+<sub>JavaScript · Node.js · Claude Code · Tailwind CSS</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### Next up
+
+<sub>Planned</sub><br>
+**Home network health monitor**: continuous latency and packet-loss measurement from local devices to public endpoints, so an outage can be pinned on the Wi-Fi, the router or the provider.
+
+<sub>Python · FastAPI · React</sub>
+
+</td>
+</tr>
 </table>
 
 #### Certifications
@@ -52,6 +76,7 @@ A read-only, local MCP server that lets Claude diagnose slow or broken internet 
 
 <p>
   <a href="https://github.com/musahyderr/mainseat/actions/workflows/ci.yml"><img alt="mainseat CI" src="https://img.shields.io/github/actions/workflow/status/musahyderr/mainseat/ci.yml?branch=main&label=mainseat%20CI&logo=githubactions&logoColor=white&style=flat-square&labelColor=000000" /></a>
+  <a href="https://github.com/musahyderr/design-inside/actions/workflows/check.yml"><img alt="design-inside checks" src="https://img.shields.io/github/actions/workflow/status/musahyderr/design-inside/check.yml?branch=main&label=design-inside%20checks&logo=githubactions&logoColor=white&style=flat-square&labelColor=000000" /></a>
   <a href="https://github.com/musahyderr/netdoctor/actions/workflows/ci.yml"><img alt="netdoctor CI" src="https://img.shields.io/github/actions/workflow/status/musahyderr/netdoctor/ci.yml?branch=main&label=netdoctor%20CI&logo=githubactions&logoColor=white&style=flat-square&labelColor=000000" /></a>
 </p>
 <p>

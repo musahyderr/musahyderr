@@ -2,7 +2,7 @@
 
 ### Syed Musa Hyder (syed · 赛义德)
 
-**18**, an **undergraduate from India**. I work across **software, networking and applied AI**, and I build small tools that do one job well.
+**18**, an **undergraduate from India (Hyderabad)**. I work across **software, networking and applied AI**, and I build small tools that do one job well.
 
 **Interested in:** `AI & machine learning` · `data` · `networking` · `civil engineering`
 

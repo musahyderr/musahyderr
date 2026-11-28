@@ -1,6 +1,6 @@
-<a href="https://iamsyed.vercel.app"><img src="banner-short.jpg" alt="Syed Musa Hyder" width="100%" /></a>
+<a href="https://iamsyed.vercel.app"><img src="banner-musa.jpg" alt="Musa Hyder" width="100%" /></a>
 
-### Syed Musa Hyder (syed · 赛义德)
+### Musa Hyder (syed · 赛义德)
 
 **18**, an **undergraduate from India (Hyderabad)**, currently learning and understanding **Python** and **SQL**. I work across **software, networking and applied AI**, and I build small tools that do one job well.
 
